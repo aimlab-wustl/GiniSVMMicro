@@ -1,0 +1,8 @@
+1. Download the zipped file.
+2. Unzip the file in a specific location.
+3. It should create three folders: data, docs, templateSVM
+4. Run MATLAB
+5. In the templateSVM directory, run the script Training.m
+6. If the installation is correct, you should see a contour plot and training/cross-validation confusion matrix.
+7. You could replace the ../data/Trainingdata.mat and ../data/Testdata.mat by your own training and test data.
+8. Refer to the PDF documentation for further details on the toolkit.
